@@ -8,6 +8,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+project-two-bulldozer-price-regression/data/bluebook-for-bulldozers/*
+
 # IPython
 profile_default/
 ipython_config.py
